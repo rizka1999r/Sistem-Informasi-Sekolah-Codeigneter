@@ -1,0 +1,64 @@
+{
+  "menu": [
+    {
+      "kategori": "GURU KELAS 1",
+      "nama": "KARWATI, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU KELAS 2A",
+      "nama": "RUSMANAH",
+      "gambar": "Rusmanah.png"
+    },
+    {
+      "kategori": "GURU KELAS 2B",
+      "nama": "NURHAYATUN",
+      "gambar": "Nurhayatun.png"
+    },
+    {
+      "kategori": "GURU KELAS 3",
+      "nama": "DWI AYU TAMARA, S.Pd.",
+      "gambar": "Dwiayutamara.png"
+    },
+    {
+      "kategori": "GURU KELAS 4",
+      "nama": "AAR MASRIA, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU KELAS 4",
+      "nama": "KASINI, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU KELAS 5A",
+      "nama": "KARWATI, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU KELAS 5B",
+      "nama": "GUN GUN, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU KELAS 6A",
+      "nama": "HERNI H, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU KELAS 6B",
+      "nama": "RETNO SAPITRI, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU PENJASKES",
+      "nama": "WAWAN HUSNAWAN, S.Pd.",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "GURU PAI",
+      "nama": "N HAMIDAH, S.Ag.",
+      "gambar": "guru.jpg"
+    }
+  ]
+}

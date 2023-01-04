@@ -1,0 +1,14 @@
+{
+  "menu": [
+    {
+      "kategori": "KEPALA SEKOLAH",
+      "nama": "DANU NURYADIN, S.Pd.I",
+      "gambar": "guru.jpg"
+    },
+    {
+      "kategori": "PENJAGA SEKOLAH",
+      "nama": "Bari Setiadi",
+      "gambar": "guru.jpg"
+    }
+  ]
+}
